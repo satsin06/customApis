@@ -1,6 +1,8 @@
-{
-  "name": "Mango"
-}
-{
-  "name": "Apple"
-}
+[
+  {
+   "name": "Mango"
+ },
+ {
+   "name": "Apple"
+ }
+]
