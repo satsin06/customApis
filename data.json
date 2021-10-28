@@ -1,6 +1,5 @@
 {
 	"products" : [
-	
 		{
 			"name":	"Mangoes",
 			"type":	"fruits",
@@ -166,7 +165,5 @@
 			"type":	"beverages",
 			"image": "https://banner2.cleanpng.com/20180421/eqe/kisspng-fizzy-drinks-sprite-coca-cola-diet-coke-alcohol-bottle-5adb2585738794.4651957115243114294732.jpg",
 		},
-	
-	
 	]
 }
