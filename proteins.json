@@ -1,0 +1,58 @@
+[
+		{
+			"name":	"Ashirvaad Atta",
+			"type":	"foodgrain",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/814nMKPg7cL._SX425_.jpg",
+			"price": "350",
+			"shelf": "F"
+		},
+		{
+			"name":	"Maida",
+			"type":	"foodgrain",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71jihUr6hzL._SL1200_.jpg",
+			"price": "75",
+			"shelf": "F"
+		},
+		{
+			"name":	"Basmati Rice",
+			"type":	"foodgrain",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/815ohUocRBL._SL1500_.jpg",
+			"price": "135",
+			"shelf": "F"
+		},
+		{
+			"name":	"Sunflower Refined Oil",
+			"type":	"foodgrain",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/51TH5xE%2B2sL._SX425_.jpg",
+			"price": "90",
+			"shelf": "F"
+		},
+		{
+			"name":	"Amul: Pure Ghee",
+			"type":	"foodgrain",
+			"image": "https://5.imimg.com/data5/IP/LB/MY-7778582/amul-ghee-250x250.jpg",
+			"price": "240",
+			"shelf": "F"
+		},
+		{
+			"name":	"Chana Dal",
+			"type":	"foodgrain",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/717%2BbcYtGYL._SX425_.jpg",
+			"price": "70",
+			"shelf": "F"
+		},
+		{
+			"name":	"Toor Dal",
+			"type":	"foodgrain",
+			"image": "https://5.imimg.com/data5/FA/FQ/MY-5329745/tata-sampann-toor-dal-500x500.jpg",
+			"price": "70",
+			"shelf": "F"
+		},
+		{
+			"name":	"Turmeric Powder",
+			"type":	"foodgrain",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS80h46t1xduUzHcinjJd2lJstFYeMH7Z_FSFyu7LkEx4cREMSE&usqp=CAU",
+			"price": "85",
+			"shelf": "F"
+		}
+	]
