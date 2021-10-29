@@ -1,8 +1,89 @@
 [
   {
-   "name": "Mango"
- },
- {
-   "name": "Apple"
- }
+			"name":	"Mangoes",
+			"type":	"fruits",
+			"image": "https://fruituncle.in/product-images/2020/02/24/595/medium/mango-safeda-500gm-1.jpg",
+			"price": "65",
+			"shelf": "D"
+		},
+  {
+			"name":	"Guava",
+			"type":	"fruits",
+			"image": "https://www.kiraanastore.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10000370_13-fresho-guava.jpg",
+			"price": "30",
+			"shelf": "D"
+		},
+		{
+			"name":	"Apple",
+			"type":	"fruits",
+			"image": "https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg",
+			"price": "60",
+			"shelf": "D"
+		},
+		{
+			"name":	"Banana",
+			"type":	"fruits",
+			"image": "https://goldlinemys.in/image/cache/data/goldlinemys/product/banana-500x554.jpg",
+			"price": "45",
+			"shelf": "D"
+		},
+		{
+			"name":	"Pomegranate",
+			"type":	"fruits",
+			"image": "https://d37ky63zmmmzfj.cloudfront.net/production/itemimages/vegetables_fruits/fruits/pomegranate_mathalam_500gm.jpg",
+			"price": "40",
+			"shelf": "D"
+		},
+		{
+			"name":	"Tender Coconut",
+			"type":	"fruits",
+			"image": "https://5.imimg.com/data5/GW/KR/MY-72421875/img-20180927-wa0020-500x500.jpg",
+			"price": "50",
+			"shelf": "D"
+		},
+		{
+			"name":	"Grapes",
+			"type":	"fruits",
+			"image": "https://cdn.shopify.com/s/files/1/0258/4307/3103/products/asset_22_800x.jpg?v=1571838232",
+			"price": "40",
+			"shelf": "D"
+		},
+		{
+			"name":	"Orange",
+			"type":	"fruits",
+			"image": "https://i1.wp.com/freshmarket.co.in/wp-content/uploads/2019/10/orange-Big-03.jpg?fit=500%2C500&ssl=1",
+			"price": "55",
+			"shelf": "D"
+		},
+	
+	
+	
+		{
+			"name":	"Potato",
+			"type":	"vegetables",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS45KNFQOB4Mf9uF2JdhWgQSQ3fDcQ8VGORW43DRaDvmMdcW9pf&usqp=CAU",
+			"price": "50",
+			"shelf": "B"
+		},
+		{
+			"name":	"Onion",
+			"type":	"vegetables",
+			"image": "https://www.parajorganics.com/wp-content/uploads/2019/12/Fresh-Onion.jpg",
+			"price": "60",
+			"shelf": "B"
+		},
+		{
+			"name":	"Carrot",
+			"type":	"vegetables",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSERHrcOPFJRhRpYm77DR-aa0b_4hjUx1eUyhGTyMTAAtw9Nr1S&usqp=CAU",
+			"price": "40",
+			"shelf": "B"
+		},
+		{
+			"name":	"Tomato",
+			"type":	"vegetables",
+			"image": "https://www.bigbasket.com/media/uploads/p/l/10000203-2_2-fresho-tomato-local.jpg",
+			"price": "40",
+			"shelf": "B"
+		},
 ]
