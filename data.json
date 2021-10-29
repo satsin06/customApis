@@ -22,13 +22,6 @@
 			"shelf": "D"
 		},
 		{
-			"name":	"Banana",
-			"type":	"fruits",
-			"image": "https://goldlinemys.in/image/cache/data/goldlinemys/product/banana-500x554.jpg",
-			"price": "45",
-			"shelf": "D"
-		},
-		{
 			"name":	"Pomegranate",
 			"type":	"fruits",
 			"image": "https://d37ky63zmmmzfj.cloudfront.net/production/itemimages/vegetables_fruits/fruits/pomegranate_mathalam_500gm.jpg",
@@ -47,13 +40,6 @@
 			"type":	"fruits",
 			"image": "https://cdn.shopify.com/s/files/1/0258/4307/3103/products/asset_22_800x.jpg?v=1571838232",
 			"price": "40",
-			"shelf": "D"
-		},
-		{
-			"name":	"Orange",
-			"type":	"fruits",
-			"image": "https://i1.wp.com/freshmarket.co.in/wp-content/uploads/2019/10/orange-Big-03.jpg?fit=500%2C500&ssl=1",
-			"price": "55",
 			"shelf": "D"
 		},
 	
@@ -88,13 +74,6 @@
 			"shelf": "B"
 		},
 		{
-			"name":	"Palak (Spinach)",
-			"type":	"vegetables",
-			"image": "https://www.farmspoint.com/image/cache/catalog/images-550x550h.jpeg.webp",
-			"price": "30",
-			"shelf": "B"
-		},
-		{
 			"name":	"Mushrooms",
 			"type":	"vegetables",
 			"image": "https://5.imimg.com/data5/LM/UJ/MY-46927813/fresh-button-mushroom-500x500.jpg",
@@ -107,17 +86,6 @@
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr5rgqukuCKbtEm3ObJnXBnupxK98hFFknz6NFmeiG7D5X7Nu9&usqp=CAU",
 			"price": "35",
 			"shelf": "B"
-		},
-	
-	
-	
-	
-		{
-			"name":	"Amul Taaza: Fresh Toned Milk",
-			"type":	"dairy",
-			"image": "https://i2.wp.com/www.homsist.com/wp-content/uploads/2018/05/148715_2-amul-taaza-toned-milk.jpg?fit=500%2C500&ssl=1",
-			"price": "60",
-			"shelf": "C"
 		},
 		{
 			"name":	"Amul: Whipping Cream",
@@ -321,13 +289,6 @@
 			"name":	"Maggi",
 			"type":	"gourmet",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBD_gFythyEK_vK_PDv8NmI2XyzgcXgy7wjnE_-2hDfuXers3K&usqp=CAU",
-			"price": "35",
-			"shelf": "A"
-		},
-		{
-			"name":	"Act II Popcorn",
-			"type":	"gourmet",
-			"image": "https://i2.wp.com/www.epicks.in/wp-content/uploads/2019/10/ACT-II-Instant-Popcorn-Classic-Salted.jpg?fit=500%2C500&ssl=1",
 			"price": "35",
 			"shelf": "A"
 		},
