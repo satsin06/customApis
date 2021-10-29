@@ -6,41 +6,41 @@
    "name": "Apple"
  },
   {
-			"name":	"Mangoes",
+    "name":	"Mangoes"
 			
-		},
+  },
   {
-			"name":	"Guava",
+			"name":	"Guava"
 			
 		},
 		{
-			"name":	"Apple",
+			"name":	"Apple"
 			
 		},
 		{
-			"name":	"Banana",
+			"name":	"Banana"
 		},
 		{
-			"name":	"Pomegranate",
+			"name":	"Pomegranate"
 			
 		},
 		{
-			"name":	"Tender Coconut",
+			"name":	"Tender Coconut"
 			
 		},
 		{
-			"name":	"Grapes",
+			"name":	"Grapes"
 			
 		},
 		{
-			"name":	"Orange",
+			"name":	"Orange"
 			
 		},
 	
 	
 	
 		{
-			"name":	"Potato",
+			"name":	"Potato"
 			
-		},
+		}
 ]
