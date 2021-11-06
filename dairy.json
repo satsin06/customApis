@@ -1,226 +1,32 @@
-<<<<<<< HEAD
 [
-	
-		{
-			"name":	"Amul: Whipping Cream",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/610OWH%2BKAfL._SL1500_.jpg",
-			"price": "47",
-			"shelf": "C"
-		},
-		{
-			"name":	"Amul Masti: Buttermilk",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/41DFs8pVPzL.jpg",
-			"price": "48",
-			"shelf": "C"
-		},
-		{
-			"name":	"Mother Dairy: Dahi",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61a7HMsnkmL._SX569_.jpg",
-			"price": "32",
-			"shelf": "C"
-		},
-		{
-			"name":	"Choco Chip Cupcake",
-			"type":	"dairy",
-			"image": "https://iwashyoudry.com/wp-content/uploads/2019/02/Banana-Chocolate-Chip-Muffins-5.jpg",
-			"price": "36",
-			"shelf": "C"
-		},
-		{
-			"name":	"Britannia: Fruit Cake",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71ABSDaXCqL._SL1500_.jpg",
-			"price": "28",
-			"shelf": "C"
-		},
-		{
-			"name":	"Brown Bread",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81hwhWe0S%2BL._SX569_.jpg",
-			"price": "40",
-			"shelf": "C"
-		},
-		{
-			"name":	"Whole Wheat Bread",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81Qhz-1mn2L._SX569_.jpg",
-			"price": "35",
-			"shelf": "C"
-		},
-	
-	
-	
-		{
-			"name":	"Red Label: Tea",
-			"type":	"beverages",
-			"image": "https://res.sastasundar.com/incom/images/product/Brooke-Bond-Red-Label-Tea-1572075946-10051144-1.jpg",
-			"price": "57",
-			"shelf": "E"
-		},
-		{
-			"name":	"Taj Mahal: Tea",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61m88DiPcIL._SX569_.jpg",
-			"price": "55",
-			"shelf": "E"
-		},
-		{
-			"name":	"Bru: Instant Coffee",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61D1dQKJSTL._SL1000_.jpg",
-			"price": "65",
-			"shelf": "E"
-		},
-		{
-			"name":	"Nescafe: Classic Coffee Powder",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71lEETnSPcL._SX569_.jpg",
-			"price": "45",
-			"shelf": "E"
-		},
-		{
-			"name":	"Bournvita",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61NMvP7kdEL._SL1500_.jpg",
-			"price": "75",
-			"shelf": "E"
-		},
-		{
-			"name":	"Boost",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81tmMIfhb0L._SY606_.jpg",
-			"price": "75",
-			"shelf": "E"
-		},
-		{
-			"name":	"Coca Cola",
-			"type":	"beverages",
-			"image": "https://banner2.cleanpng.com/20180130/zsq/kisspng-coca-cola-soft-drink-safe-beverage-can-sprite-coke-5a71306972f295.1065931315173674014708.jpg",
-			"price": "45",
-			"shelf": "E"
-		},
-		{
-			"name":	"Sprite",
-			"type":	"beverages",
-			"image": "https://banner2.cleanpng.com/20180421/eqe/kisspng-fizzy-drinks-sprite-coca-cola-diet-coke-alcohol-bottle-5adb2585738794.4651957115243114294732.jpg",
-			"price": "45",
-			"shelf": "E"
-		}
-	
-=======
-[
-	
-		{
-			"name":	"Amul: Whipping Cream",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/610OWH%2BKAfL._SL1500_.jpg",
-			"price": "47",
-			"shelf": "C"
-		},
-		{
-			"name":	"Amul Masti: Buttermilk",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/41DFs8pVPzL.jpg",
-			"price": "48",
-			"shelf": "C"
-		},
-		{
-			"name":	"Mother Dairy: Dahi",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61a7HMsnkmL._SX569_.jpg",
-			"price": "32",
-			"shelf": "C"
-		},
-		{
-			"name":	"Choco Chip Cupcake",
-			"type":	"dairy",
-			"image": "https://iwashyoudry.com/wp-content/uploads/2019/02/Banana-Chocolate-Chip-Muffins-5.jpg",
-			"price": "36",
-			"shelf": "C"
-		},
-		{
-			"name":	"Britannia: Fruit Cake",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71ABSDaXCqL._SL1500_.jpg",
-			"price": "28",
-			"shelf": "C"
-		},
-		{
-			"name":	"Brown Bread",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81hwhWe0S%2BL._SX569_.jpg",
-			"price": "40",
-			"shelf": "C"
-		},
-		{
-			"name":	"Whole Wheat Bread",
-			"type":	"dairy",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81Qhz-1mn2L._SX569_.jpg",
-			"price": "35",
-			"shelf": "C"
-		},
-	
-	
-	
-		{
-			"name":	"Red Label: Tea",
-			"type":	"beverages",
-			"image": "https://res.sastasundar.com/incom/images/product/Brooke-Bond-Red-Label-Tea-1572075946-10051144-1.jpg",
-			"price": "57",
-			"shelf": "E"
-		},
-		{
-			"name":	"Taj Mahal: Tea",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61m88DiPcIL._SX569_.jpg",
-			"price": "55",
-			"shelf": "E"
-		},
-		{
-			"name":	"Bru: Instant Coffee",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61D1dQKJSTL._SL1000_.jpg",
-			"price": "65",
-			"shelf": "E"
-		},
-		{
-			"name":	"Nescafe: Classic Coffee Powder",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71lEETnSPcL._SX569_.jpg",
-			"price": "45",
-			"shelf": "E"
-		},
-		{
-			"name":	"Bournvita",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61NMvP7kdEL._SL1500_.jpg",
-			"price": "75",
-			"shelf": "E"
-		},
-		{
-			"name":	"Boost",
-			"type":	"beverages",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81tmMIfhb0L._SY606_.jpg",
-			"price": "75",
-			"shelf": "E"
-		},
-		{
-			"name":	"Coca Cola",
-			"type":	"beverages",
-			"image": "https://banner2.cleanpng.com/20180130/zsq/kisspng-coca-cola-soft-drink-safe-beverage-can-sprite-coke-5a71306972f295.1065931315173674014708.jpg",
-			"price": "45",
-			"shelf": "E"
-		},
-		{
-			"name":	"Sprite",
-			"type":	"beverages",
-			"image": "https://banner2.cleanpng.com/20180421/eqe/kisspng-fizzy-drinks-sprite-coca-cola-diet-coke-alcohol-bottle-5adb2585738794.4651957115243114294732.jpg",
-			"price": "45",
-			"shelf": "E"
-		}
-	
->>>>>>> e6e0457382102c786945b1dc6a12cc2118857489
-	]
+	{
+		"name":	"Leche",
+		"type":	"Dairy",
+		"image": ""
+	},
+	{
+		"name":	"Yogur",
+		"type":	"Dairy",
+		"image": ""
+	},
+	{
+		"name":	"Queso",
+		"type":	"Dairy",
+		"image": ""
+	},
+	{
+		"name":	"Bebida Alm.",
+		"type":	"Dairy",
+		"image": ""
+	},
+	{
+		"name":	"Bebida Soya",
+		"type":	"Dairy",
+		"image": ""
+	},
+	{
+		"name":	"Bebida Coco",
+		"type":	"Dairy",
+		"image": ""
+	}
+]
