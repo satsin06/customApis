@@ -1,0 +1,72 @@
+[
+	{
+		"name":	"Egg",
+		"type":	"Protein",
+		"image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/health-benefits-of-eggs-1296x728-feature.jpg"
+	},
+	{
+		"name":	"Almonds ",
+		"type":	"Protein",
+		"image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/proven-benefits-of-almonds-1296x728-feature.jpg"
+	},
+	{
+		"name":	"Chicken Breast",
+		"type":	"Protein",
+		"image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/baked-whole-chicken-1296x728.jpg"
+	},
+	{
+		"name":	"Oats",
+		"type":	"Protein",
+		"image": "https://images-prod.healthline.com/hlcmsresource/images/topic_centers/2020-7/oats-oatmeal-1296x728-header.jpg"
+	},
+	{
+		"name":	"Meat",
+		"type":	"Protein",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSqfZkYOGdYl-bGpZI7bKIrP-Td90_jHOXmBtggvmb_1dC4sNJMrVbfMrDUhHRAQSpQ47LyRKBuYal5KeAj3Ck"
+	},
+	{
+		"name":	"Fish",
+		"type":	"Protein",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSvasud5N5B8yJscn0bGBiZDdkgmDcCzkH35ErT7CyT4BWVr-0kFVNnhMbuR6Ud0T6oSnVdTKEEnlvrZPcS8IY"
+	},
+	{
+		"name":	"Turkey",
+		"type":	"Protein",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTf-FhtKigTW6Z2QlbFTQSsZQWvRa283zKErNvY2cZ5CYbUMHDr9iTGYaDRDhhBIz4JyGfZ-DeQexJ_L9vPC74"
+	},
+	{
+		"name":	"Pork",
+		"type":	"Protein",
+		"image": "https://5.imimg.com/data5/ANDROID/Default/2020/11/VY/OB/UK/105197881/img-20201014-090140-jpg-500x500.jpg"
+	},
+	{
+		"name":	"Ham",
+		"type":	"Protein",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTUYyaOWGpNw1lvvWPNuMao9TGxR2CRZ1SrniSKSLMWbyFUIe0h-_DiIOweGQyYxTkwWsW_sv2MkGA6OHZrD70"
+	},
+	{
+		"name":	"Tofu",
+		"type":	"Protein",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQuj5T7t-nxjRt4P4TMP3-4pk0umAcahMUa0bq3jGhxLr68OakXGfn7RiBmdDiT-HyW0-qIDFffMif2IWjWn8A"
+	},
+	{
+		"name":	"soy meat",
+		"type":	"Protein",
+		"image": "https://s3.envato.com/files/297715053/SoyaChunksInWoodenBowl.jpg"
+	},
+	{
+		"name":	"Tempeh",
+		"type":	"Protein",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRFr7D1esMuhQbFcbqc2f1dyrZhfuSsoMQH4uBbRLvLtbYs3cHQ-zPuEawpKqudWTBu5APfTCCrGyQv_laINyw"
+	},
+	{
+		"name":	"Seitán",
+		"type":	"Protein",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSQcXldKFamiiVj5cDbkGPYUmLgwZ_Dqv1UZ_UfHHyRpL_BAmJCDIA7hvA2Xsq1i9abKrk1VtGYEDz87lTfYY4"
+	},
+	{
+		"name":	"Milk",
+		"type":	"Protein",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTFjkBHcnNR1DpwpcZcYwJNHNCXE5BWIOlOGQsmfcmFnhHPn6S7yh7M-LI58CKUuoPdUG0x-LRrJHDG8XjQH6k"
+	}
+]
