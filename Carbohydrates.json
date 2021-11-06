@@ -1,109 +1,77 @@
-<<<<<<< HEAD
 [
-	
-		{
-			"name":	"Snickers: Chocolate Bar",
-			"type":	"gourmet",
-			"image": "https://banner2.cleanpng.com/20180328/ipw/kisspng-chocolate-bar-twix-3-musketeers-snickers-snickers-5abbea5fad9c24.5593878415222646717111.jpg",
-			"price": "45",
-			"shelf": "A"
-		},
-		{
-			"name":	"DairyMilk Silk",
-			"type":	"gourmet",
-			"image": "https://5.imimg.com/data5/OY/EU/OW/SELLER-39546977/cadbury-dairy-milk-silk-valentine-chocolate-bar-250-500x500.jpeg",
-			"price": "140",
-			"shelf": "A"
-		},
-		{
-			"name":	"Ferrero Rocher Chocolate",
-			"type":	"gourmet",
-			"image": "https://m.media-amazon.com/images/I/51sY8Dz8FmL._SR500,500_.jpg",
-			"price": "240",
-			"shelf": "A"
-		},
-		{
-			"name":	"Peanut Butter",
-			"type":	"gourmet",
-			"image": "https://n2.sdlcdn.com/imgs/i/o/p/appin-100-natural-creamy-Butter-SDL784301223-1-fe5f2.jpg",
-			"price": "120",
-			"shelf": "A"
-		},
-		{
-			"name":	"Maggi",
-			"type":	"gourmet",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBD_gFythyEK_vK_PDv8NmI2XyzgcXgy7wjnE_-2hDfuXers3K&usqp=CAU",
-			"price": "35",
-			"shelf": "A"
-		},
-		{
-			"name":	"Maggi: Pasta",
-			"type":	"gourmet",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/810vnm7Eo6L._SL1500_.jpg",
-			"price": "45",
-			"shelf": "A"
-		},
-		{
-			"name":	"Knorr: Tomato Soup",
-			"type":	"gourmet",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/91Wjny7pPPL._SL1500_.jpg",
-			"price": "65",
-			"shelf": "A"
-		}
-	
-	]
-=======
-[
-	
-		{
-			"name":	"Snickers: Chocolate Bar",
-			"type":	"gourmet",
-			"image": "https://banner2.cleanpng.com/20180328/ipw/kisspng-chocolate-bar-twix-3-musketeers-snickers-snickers-5abbea5fad9c24.5593878415222646717111.jpg",
-			"price": "45",
-			"shelf": "A"
-		},
-		{
-			"name":	"DairyMilk Silk",
-			"type":	"gourmet",
-			"image": "https://5.imimg.com/data5/OY/EU/OW/SELLER-39546977/cadbury-dairy-milk-silk-valentine-chocolate-bar-250-500x500.jpeg",
-			"price": "140",
-			"shelf": "A"
-		},
-		{
-			"name":	"Ferrero Rocher Chocolate",
-			"type":	"gourmet",
-			"image": "https://m.media-amazon.com/images/I/51sY8Dz8FmL._SR500,500_.jpg",
-			"price": "240",
-			"shelf": "A"
-		},
-		{
-			"name":	"Peanut Butter",
-			"type":	"gourmet",
-			"image": "https://n2.sdlcdn.com/imgs/i/o/p/appin-100-natural-creamy-Butter-SDL784301223-1-fe5f2.jpg",
-			"price": "120",
-			"shelf": "A"
-		},
-		{
-			"name":	"Maggi",
-			"type":	"gourmet",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBD_gFythyEK_vK_PDv8NmI2XyzgcXgy7wjnE_-2hDfuXers3K&usqp=CAU",
-			"price": "35",
-			"shelf": "A"
-		},
-		{
-			"name":	"Maggi: Pasta",
-			"type":	"gourmet",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/810vnm7Eo6L._SL1500_.jpg",
-			"price": "45",
-			"shelf": "A"
-		},
-		{
-			"name":	"Knorr: Tomato Soup",
-			"type":	"gourmet",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/91Wjny7pPPL._SL1500_.jpg",
-			"price": "65",
-			"shelf": "A"
-		}
-	
-	]
->>>>>>> e6e0457382102c786945b1dc6a12cc2118857489
+	{
+		"name":	"arroz",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRFW2dWN5PWk3s2mfrS8C3HDfvdeEsfeE_zR3dgz6Pfmzt9mlxy38m_hjwQtKoAjBXFuw8UAArCYrEfEqd5eYs"
+	},
+	{
+		"name":	"Papa",
+		"type":	"carbohydrates",
+		"image": "https://5.imimg.com/data5/ANDROID/Default/2021/2/LG/YK/MD/45117192/potatoes-2-jpg-500x500.jpg"
+	},
+	{
+		"name":	"Camote",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRSuYCYK2XDimfwQQ9A76_rBT8WtFE1eqWtS12EDR0VqifLmOuROOoD_gQa-t3B31wz00KQEByXLDUeSVubsKc"
+	},
+	{
+		"name":	"Yuca",
+		"type":	"carbohydrates",
+		"image": "https://www.lakewinds.coop/wp-content/uploads/2016/03/yuca.png"
+	},
+	{
+		"name":	"Lentejas",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcR8aJ-a9tWtZGtiqrfswGdzNuD5075GcBrsmq91zfKmNc96yWOOrn7dV4lrx-SVbk424PirN4RDsV7zsW4eqSM"
+	},
+	{
+		"name":	"Habichuelas",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcROobezTMCtdWOZvZtayzauPv_4cfFHcGikw35zpT-fvG-at_iVb-2FLUJJmjg2bQq9Cr9jV9iLY18ps9zqBpk"
+	},
+	{
+		"name":	"Garbanzos",
+		"type":	"carbohydrates",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSX7pV906TCeK05QwjLQX7mLSSKn08ti2DqHNSu45JahvpuVmrDDfMdyZr87URyB0_xjXaxzQVsA-YeFS8K4w8"
+	},
+	{
+		"name":	"Arvejas",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQXylDTRYiUaEwaI3llWNYq4l0Dd4AMrc4JXEeSXDb3C_h1gWZv0pp5S9Eq9bwyHMZiYz-q4j0MEk9FbSaHcC8"
+	},
+	{
+		"name":	"Quinua",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcR1HrMP6R57f7i-kpVaHpgpO_7AnjwIX5RcvBgeXgIw7qMf2B6i3JO6k4vKuq-_lcCS7qZqRXY_mXAsoWIVFkM"
+	},
+	{
+		"name":	"Pasta",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTBv1Tn24cViGi32YP8JcjtHFhWUNMzmkLUePozxrYH9qDZ5L32RpY4DKjs27Reo_XXL_O0oH9y_esZv0GGwgo"
+	},
+	{
+		"name":	"Maíz",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT4Itx-fm5-iUFrdqhW85Jg_yVymCstlPDwZmDpTIb4HehMcBRi3fOrGy_d7WiZbOTwane_kGfykTX-7_Dckik"
+	},
+	{
+		"name":	"Pop corn",
+		"type":	"carbohydrates",
+		"image": "https://www.simplyrecipes.com/thmb/nbVlRHaiditISFfsrwnYm-j5094=/1264x1264/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__01__perfect-popcorn-vertical-b-1800-b6948302f0f1460a93eb9d4d73623831.jpg"
+	},
+	{
+		"name":	"Avena",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRmug02Kg_zH4NGDym-h9k20Z3y3jRf1ihKEnDdxI3amops1VSBuuAdIDTu9VBDvO2mZApsrdRSichnkJBQGrs"
+	},
+	{
+		"name":	"Pan",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQjYJD4RyamKIqR8gA7KzfLX34D7qMKeuSpqSVfcwDoh3ZQB8KTven0kCH4Pw2LOI8T6JY0ydDVgrDZzGm7Eiw"
+	},
+	{
+		"name":	"Cereal",
+		"type":	"carbohydrates",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRReAkXZwbkYkXbAXg2tav8nZ1k4eOs5oQDikaNQsaEPvF-966grKd4dgLBGeTIpdMPPMdkXMUvX56AMgS-_vA"
+	}
+]
