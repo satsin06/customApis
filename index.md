@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-[dairy.json](https://satsin06.github.io/coachappapi/dairy.json)
 ## Header 2
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 ### Header 3
@@ -30,6 +29,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[dairy.json](https://satsin06.github.io/coachappapi/dairy.json)
 
 ### Jekyll Themes
 
