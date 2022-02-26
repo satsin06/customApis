@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [data.json](https://satsin06.github.io/customApis/data.json)
 
-[context](https://satsin06.github.io/customApis/content.json)
+[content](https://satsin06.github.io/customApis/content.json)
 
 ### Jekyll Themes
 
