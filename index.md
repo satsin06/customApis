@@ -28,9 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[dairy.json](https://satsin06.github.io/coachappapi/dairy.json)
+[dairy.json](https://satsin06.github.io/customApis/dairy.json)
 
-[data.json](https://satsin06.github.io/coachappapi/data.json)
+[data.json](https://satsin06.github.io/customApis/data.json)
+
+[context](https://satsin06.github.io/customApis/content.json)
 
 ### Jekyll Themes
 
