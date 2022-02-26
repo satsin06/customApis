@@ -13,9 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 ### Header 3
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - Bulleted
 - List
@@ -29,7 +27,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 [dairy.json](https://satsin06.github.io/coachappapi/dairy.json)
+
+[data.json](https://satsin06.github.io/coachappapi/data.json)
 
 ### Jekyll Themes
 
