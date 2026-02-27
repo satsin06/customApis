@@ -29,6 +29,8 @@ This outline combines material from:
 
 Run the generator to rebuild the deck:
 
+`python3 -m pip install --user pymupdf python-pptx pillow`
+
 `python3 scripts/generate_investor_presentation.py`
 
 Output:
