@@ -1,0 +1,77 @@
+[
+	{
+		"name":	"arroz",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRFW2dWN5PWk3s2mfrS8C3HDfvdeEsfeE_zR3dgz6Pfmzt9mlxy38m_hjwQtKoAjBXFuw8UAArCYrEfEqd5eYs"
+	},
+	{
+		"name":	"Papa",
+		"type":	"carbohydrates",
+		"image": "https://5.imimg.com/data5/ANDROID/Default/2021/2/LG/YK/MD/45117192/potatoes-2-jpg-500x500.jpg"
+	},
+	{
+		"name":	"Camote",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRSuYCYK2XDimfwQQ9A76_rBT8WtFE1eqWtS12EDR0VqifLmOuROOoD_gQa-t3B31wz00KQEByXLDUeSVubsKc"
+	},
+	{
+		"name":	"Yuca",
+		"type":	"carbohydrates",
+		"image": "https://www.lakewinds.coop/wp-content/uploads/2016/03/yuca.png"
+	},
+	{
+		"name":	"Lentejas",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcR8aJ-a9tWtZGtiqrfswGdzNuD5075GcBrsmq91zfKmNc96yWOOrn7dV4lrx-SVbk424PirN4RDsV7zsW4eqSM"
+	},
+	{
+		"name":	"Habichuelas",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcROobezTMCtdWOZvZtayzauPv_4cfFHcGikw35zpT-fvG-at_iVb-2FLUJJmjg2bQq9Cr9jV9iLY18ps9zqBpk"
+	},
+	{
+		"name":	"Garbanzos",
+		"type":	"carbohydrates",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSX7pV906TCeK05QwjLQX7mLSSKn08ti2DqHNSu45JahvpuVmrDDfMdyZr87URyB0_xjXaxzQVsA-YeFS8K4w8"
+	},
+	{
+		"name":	"Arvejas",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQXylDTRYiUaEwaI3llWNYq4l0Dd4AMrc4JXEeSXDb3C_h1gWZv0pp5S9Eq9bwyHMZiYz-q4j0MEk9FbSaHcC8"
+	},
+	{
+		"name":	"Quinua",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcR1HrMP6R57f7i-kpVaHpgpO_7AnjwIX5RcvBgeXgIw7qMf2B6i3JO6k4vKuq-_lcCS7qZqRXY_mXAsoWIVFkM"
+	},
+	{
+		"name":	"Pasta",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTBv1Tn24cViGi32YP8JcjtHFhWUNMzmkLUePozxrYH9qDZ5L32RpY4DKjs27Reo_XXL_O0oH9y_esZv0GGwgo"
+	},
+	{
+		"name":	"Maíz",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT4Itx-fm5-iUFrdqhW85Jg_yVymCstlPDwZmDpTIb4HehMcBRi3fOrGy_d7WiZbOTwane_kGfykTX-7_Dckik"
+	},
+	{
+		"name":	"Pop corn",
+		"type":	"carbohydrates",
+		"image": "https://www.simplyrecipes.com/thmb/nbVlRHaiditISFfsrwnYm-j5094=/1264x1264/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__01__perfect-popcorn-vertical-b-1800-b6948302f0f1460a93eb9d4d73623831.jpg"
+	},
+	{
+		"name":	"Avena",
+		"type":	"carbohydrates",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRmug02Kg_zH4NGDym-h9k20Z3y3jRf1ihKEnDdxI3amops1VSBuuAdIDTu9VBDvO2mZApsrdRSichnkJBQGrs"
+	},
+	{
+		"name":	"Pan",
+		"type":	"carbohydrates",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQjYJD4RyamKIqR8gA7KzfLX34D7qMKeuSpqSVfcwDoh3ZQB8KTven0kCH4Pw2LOI8T6JY0ydDVgrDZzGm7Eiw"
+	},
+	{
+		"name":	"Cereal",
+		"type":	"carbohydrates",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRReAkXZwbkYkXbAXg2tav8nZ1k4eOs5oQDikaNQsaEPvF-966grKd4dgLBGeTIpdMPPMdkXMUvX56AMgS-_vA"
+	}
+]

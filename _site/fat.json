@@ -1,0 +1,47 @@
+[
+	{
+		"name":	"Aguacate",
+		"type":	"Fats",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTfsAVJqORKElyS3whtkypDKd0AZ11J5bE3Preb1lk_lReei0CnR5365DMJx7kQdjcbSwKASqTgw94ZA5ZN73o"
+	},
+	{
+		"name":	"Mani",
+		"type":	"Fats",
+		"image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQB0v497fn1WX68kV0BLz_hx_9kyJw5beHupbPhdAYyxUJAPU3WIFI5g0MnowH75dDeIORQX3GevVi17wod3r8"
+	},
+	{
+		"name":	"Almendras",
+		"type":	"Fats",
+		"image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQtwLGKzi1vIJl3UcK2HKb3HrZZdqqcOCOx--Pg7oUqvfjiDAWO_UgkZBvngE7UQ8lfNqpW7gJvywXm33VaC2k"
+	},
+	{
+		"name":	"Pecanas",
+		"type":	"Fats",
+		"image": "https://image.shutterstock.com/image-photo/pecan-nuts-on-white-background-260nw-275894243.jpg"
+	},
+	{
+		"name":	"Maranon",
+		"type":	"Fats",
+		"image": "https://images.unsplash.com/photo-1615485925873-7ecbbe90a866?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzaGV3JTIwbnV0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+	},
+	{
+		"name":	"Nueces",
+		"type":	"Fats",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTiLS0ncPn5DD4C8weHH0fxKRgZhsTdTJXPF3P-eGyRHvZhwWW4HKbbIBHX2Rr0f2o_FTsgV_dQrASjVOP3_Qg"
+	},
+	{
+		"name":	"Aceitunas",
+		"type":	"Fats",
+		"image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT8QFS7zgZNgjftJRVkb1ltQcDYx8rGfw0I8BPDhTqdYN2xjUnd_c59t9RLu-cI5h_j5rQGB2-JzgqIdVV3bXo"
+	},
+	{
+		"name":	"Chia",
+		"type":	"Fats",
+		"image": "https://assets.bonappetit.com/photos/57d6ce4f1844fc37461430ba/master/w_1500,h_1000,c_limit/chia-seeds.jpg"
+	},
+	{
+		"name":	"Chocolate",
+		"type":	"Fats",
+		"image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTOPmejIYU4bVdX5HCYzDP3z-W9wgfz7WbVAQs_WtC9eQWzjgtHQ9RuHI1QxWMQj-uRp1QOWmlY0eS7hC95Eow"
+	}
+]
